@@ -1,2 +1,2 @@
-# known-issues-in-career
-This is the list of known issues that I have experienced in my career.
+# helpful-notes-in-career
+This git is a collection of helpful notes that can be used in different situations in a career.
